@@ -1,2 +1,2 @@
-# welcom-site
+# welcome-site
 my first site
